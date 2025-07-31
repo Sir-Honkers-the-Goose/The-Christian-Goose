@@ -1,5 +1,6 @@
 # The Christian Goose
-<img src="assets/christian_goose.png" alt="Christian Goose" />
+<img width="509" height="428" alt="the chirstian goose" src="https://github.com/user-attachments/assets/19b9ef54-7afb-4a16-a778-29441d7b66c0" />
+
 
 Bible verses:  
 John 20:21  
