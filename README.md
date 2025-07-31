@@ -1,7 +1,5 @@
 # The Christian Goose
-<video width="600" autoplay loop muted playsinline>
-  <source src="assets/goosehonk.mp4" type="video/mp4">
-</video>
+<img src="assets/christian_goose.png" alt="Christian Goose" />
 
 Bible verses:  
 John 20:21  
