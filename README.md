@@ -1,9 +1,10 @@
 # christian gooose
 
-John: 20 21 "Again 
 
 https://github.com/user-attachments/assets/9c48ef54-3557-4d1e-bab4-3d26176815c5
 
-Jesus said to them, “Peace be with you. As the Father has sent me, even so I am sending you.” 
+John: 20 21 "Again Jesus said to them, “Peace be with you. As the Father has sent me, even so I am sending you.” 
+
 Prayers: "Our Father, who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, forever and ever. Amen." 
+
 Nature: being nature helps us to get closer to God one way is feeding geese here are some tips for feeding geese alot of people feed them bread instead you should feed them oats.
